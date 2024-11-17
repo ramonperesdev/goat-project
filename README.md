@@ -17,3 +17,18 @@ O **Goat Project** é um projeto web construído com **React**, **TypeScript**, 
 - **Interface interativa**: O projeto conta com componentes animados e interações agradáveis com o usuário.
 - **Caixas sorteáveis**: Um dos recursos do projeto é a possibilidade de abrir "caixas", com animações e probabilidades definidas.
 - **Modal personalizada**: Utilizando o **Radix UI**, temos uma modal totalmente personalizável, com controle do estado de visibilidade via React.
+
+## Instalação
+
+Para rodar este projeto localmente, siga as etapas abaixo.
+
+### 1. **Instalar o Node.js (Versão v22.11.0)**
+
+Este projeto foi desenvolvido usando a versão **v22.11.0** do **Node.js**, portanto, é importante garantir que você tenha esta versão ou uma versão compatível instalada.
+
+#### **Verificar se o Node.js está instalado:**
+
+Abra o terminal e execute o seguinte comando:
+
+```bash
+node -v
