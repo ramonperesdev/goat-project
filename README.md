@@ -17,4 +17,3 @@ O **Goat Project** é um projeto web construído com **React**, **TypeScript**, 
 - **Interface interativa**: O projeto conta com componentes animados e interações agradáveis com o usuário.
 - **Caixas sorteáveis**: Um dos recursos do projeto é a possibilidade de abrir "caixas", com animações e probabilidades definidas.
 - **Modal personalizada**: Utilizando o **Radix UI**, temos uma modal totalmente personalizável, com controle do estado de visibilidade via React.
-- **Design responsivo**: Graças ao **Tailwin
