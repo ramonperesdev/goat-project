@@ -140,7 +140,7 @@ const Roulette = ({ toggleDialog }: { toggleDialog: () => void }) => {
             bgClass="bg-rare-gradient"
             borderColorClass="border-color-rare"
             onClick={toggleDialog}
-            customStyles="relative overflow-hidden px-12 py-2"
+            customStyles="relative overflow-hidden px-14 py-2"
           >
             <motion.div
               className="flex items-center justify-center z-50"
