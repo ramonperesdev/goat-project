@@ -2,7 +2,7 @@
 
 O **Goat Project** é um projeto web construído com **React**, **TypeScript**, **Tailwind CSS**, **Framer Motion** e **Radix UI**. O projeto inclui uma interface moderna e interativa, com animações suaves e componentes reutilizáveis.
 
-> Assista ao vídeo de demonstração do projeto: [Demonstração no Streamable](https://streamable.com/e10hbs)
+> Assista ao vídeo de demonstração do projeto: [Demonstração no Streamable](https://streamable.com/0drln5)
 
 ## Tecnologias Utilizadas
 
