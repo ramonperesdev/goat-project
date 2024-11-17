@@ -1,50 +1,20 @@
-# React + TypeScript + Vite
+# Goat Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **Goat Project** é um projeto web construído com **React**, **TypeScript**, **Tailwind CSS**, **Framer Motion** e **Radix UI**. O projeto inclui uma interface moderna e interativa, com animações suaves e componentes reutilizáveis.
 
-Currently, two official plugins are available:
+> Assista ao vídeo de demonstração do projeto: [Demonstração no Streamable](https://streamable.com/e10hbs)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **React**: Biblioteca JavaScript para construir interfaces de usuário dinâmicas.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
+- **Tailwind CSS**: Framework utilitário para criação de interfaces rápidas e responsivas.
+- **Framer Motion**: Biblioteca para animações no React, proporcionando transições e animações suaves.
+- **Radix UI**: Conjunto de componentes acessíveis e de alta qualidade para construir interfaces.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Funcionalidades
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+- **Interface interativa**: O projeto conta com componentes animados e interações agradáveis com o usuário.
+- **Caixas sorteáveis**: Um dos recursos do projeto é a possibilidade de abrir "caixas", com animações e probabilidades definidas.
+- **Modal personalizada**: Utilizando o **Radix UI**, temos uma modal totalmente personalizável, com controle do estado de visibilidade via React.
+- **Design responsivo**: Graças ao **Tailwin
